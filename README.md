@@ -78,4 +78,7 @@ Oracle Database 10g Enterprise Edition Release 10.2.0.4.0 - 64bi
 0: python pyora.py --username pyora --password secret --address 127.0.0.1 --database DATABASE tablespace SYSTEM
 92.45
 
+ubuntu安装cx_Oracle 
+http://wenku.baidu.com/link?url=1T0I514J07d-ghOpbpoCn3Aignm1Oz3FYUm2l0JTvBWoG6XXdg-EH3qWRzDDjtEcOZH0zcsANelZgPmu6qNDMn8yBHAcV468pEZcO7YKLLm
+
 </code></pre>
